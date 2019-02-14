@@ -9,6 +9,9 @@
 
 * [简介](README.md)
 * [2019年]()
+	* [2月]()
+		* [2018年我们如何与坏应用程序和恶意开发者进行斗争(2月13日)](chapters/2019.2.13.md)
+		* [Android Things的更新(2月12日)](chapters/2019.2.12.md)
     * [1月]()
    		* [Google发布适用于2018 Android的Santa Tracker源代码(1月29日)](chapters/2019.1.29.md)
    		* [Google移动开发者日GDC 2019即将到来(1月23日)](chapters/2019.1.23.md)
